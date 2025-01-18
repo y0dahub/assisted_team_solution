@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flights>
+    <Flight>
+        <Source>DXB</Source>
+        <Destination>BKK</Destination>
+        <Carrier>Emirates</Carrier>
+        <FlightNumber>EK 372</FlightNumber>
+        <DepartureTimeStamp>2023-10-01T15:30:00</DepartureTimeStamp>
+        <ArrivalTimeStamp>2023-10-01T22:05:00</ArrivalTimeStamp> <!-- Изменено время прибытия -->
+        <Class>Economy</Class>
+        <NumberOfStops>0</NumberOfStops>
+        <TicketType>OneWay</TicketType>
+    </Flight>
+    <Flight>
+        <Source>DXB</Source>
+        <Destination>BKK</Destination>
+        <Carrier>Qatar Airways</Carrier>
+        <FlightNumber>QR 830</FlightNumber>
+        <DepartureTimeStamp>2023-10-01T16:00:00</DepartureTimeStamp>
+        <ArrivalTimeStamp>2023-10-01T22:30:00</ArrivalTimeStamp>
+        <Class>Economy</Class> <!-- Изменен класс -->
+        <NumberOfStops>1</NumberOfStops>
+        <TicketType>OneWay</TicketType> <!-- Изменен тип билета -->
+    </Flight>
+    <Flight>
+        <Source>DXB</Source>
+        <Destination>BKK</Destination>
+        <Carrier>Thai Airways</Carrier>
+        <FlightNumber>TG 517</FlightNumber>
+        <DepartureTimeStamp>2023-10-01T18:00:00</DepartureTimeStamp>
+        <ArrivalTimeStamp>2023-10-01T23:30:00</ArrivalTimeStamp>
+        <Class>First</Class>
+        <NumberOfStops>1</NumberOfStops> <!-- Изменено количество остановок -->
+        <TicketType>RoundTrip</TicketType> <!-- Изменен тип билета -->
+    </Flight>
+    <Flight>
+        <Source>DXB</Source>
+        <Destination>BKK</Destination>
+        <Carrier>Etihad Airways</Carrier> <!-- Новый рейс -->
+        <FlightNumber>EY 401</FlightNumber>
+        <DepartureTimeStamp>2023-10-01T19:00:00</DepartureTimeStamp>
+        <ArrivalTimeStamp>2023-10-01T23:45:00</ArrivalTimeStamp>
+        <Class>Business</Class>
+        <NumberOfStops>0</NumberOfStops>
+        <TicketType>OneWay</TicketType>
+    </Flight>
+</Flights>

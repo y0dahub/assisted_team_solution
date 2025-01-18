@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flights>
+    <Flight>
+        <Source>DXB</Source>
+        <Destination>BKK</Destination>
+        <Carrier>Emirates</Carrier>
+        <FlightNumber>EK 372</FlightNumber>
+        <DepartureTimeStamp>2023-10-01T15:30:00</DepartureTimeStamp>
+        <ArrivalTimeStamp>2023-10-01T22:00:00</ArrivalTimeStamp>
+        <Class>Economy</Class>
+        <NumberOfStops>0</NumberOfStops>
+        <TicketType>OneWay</TicketType>
+    </Flight>
+    <Flight>
+        <Source>DXB</Source>
+        <Destination>BKK</Destination>
+        <Carrier>Qatar Airways</Carrier>
+        <FlightNumber>QR 830</FlightNumber>
+        <DepartureTimeStamp>2023-10-01T16:00:00</DepartureTimeStamp>
+        <ArrivalTimeStamp>2023-10-01T22:30:00</ArrivalTimeStamp>
+        <Class>Business</Class>
+        <NumberOfStops>1</NumberOfStops>
+        <TicketType>RoundTrip</TicketType>
+    </Flight>
+    <Flight>
+        <Source>DXB</Source>
+        <Destination>BKK</Destination>
+        <Carrier>Thai Airways</Carrier>
+        <FlightNumber>TG 517</FlightNumber>
+        <DepartureTimeStamp>2023-10-01T18:00:00</DepartureTimeStamp>
+        <ArrivalTimeStamp>2023-10-01T23:30:00</ArrivalTimeStamp>
+        <Class>First</Class>
+        <NumberOfStops>0</NumberOfStops>
+        <TicketType>OneWay</TicketType>
+    </Flight>
+</Flights>
